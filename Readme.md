@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BaseObject.cs](./CS/WindowsFormsApplication25/BaseObject.cs) (VB: [BaseObject.vb](./VB/WindowsFormsApplication25/BaseObject.vb))
+* [Form1.cs](./CS/WindowsFormsApplication25/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication25/Form1.vb))
+<!-- default file list end -->
 # How to show changed object properties in a master-detail grid (e.g. WinForms XtraGrid)
 
 
